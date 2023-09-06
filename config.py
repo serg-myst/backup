@@ -1,0 +1,1 @@
+DIRECTORY = 'd:/Project/project'
